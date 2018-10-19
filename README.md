@@ -1,1 +1,2 @@
-# api-lumen-basic
+# Rest API Lument
+# Menggunakan Bearer Authentication
